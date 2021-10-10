@@ -1,0 +1,9 @@
+scikit-learn
+spacy
+rake-nltk
+fuzzywuzzy==0.18.0
+docx2txt
+gensim==3.8.3
+pdf2docx==0.5.1
+streamlit
+pymupdf
