@@ -23,7 +23,7 @@ import spacy
 
 import logging
 
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm-3.1.0")
 r = Rake()
 
 class Resume_aid:
