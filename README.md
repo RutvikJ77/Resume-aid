@@ -1,7 +1,8 @@
 # Resume-aid
 
-
-
+<p align="center">
+  <img src="https://i.imgur.com/BF93uAH.png" alt="Logo"/>
+</p>
 
 ### Inspiration
 Resumes are a vital point in getting your desired job and making one that can help you get that first stage of the interview is very important and at times confusing because there is this gatekeeper Applicant Tracking system aka ATS which searches for keywords from the job description and gives a score to your resume before it gets to the recruiter. Having faced this issue of no response loop from a recruiter I searched about it until I found out about ATS and then it clicked to develop something which will help many job seekers.
